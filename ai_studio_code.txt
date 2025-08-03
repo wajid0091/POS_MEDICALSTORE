@@ -1,0 +1,23 @@
+{
+  "name": "Inam Medical POS",
+  "short_name": "Inam POS",
+  "description": "Point of Sale system for Inam Medical Center",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#1e293b",
+  "icons": [
+    {
+      "src": "https://i.ibb.co/6wmh4b1/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://i.ibb.co/wJvjvB9/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
